@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gajendra03395/leetcode/tree/master/0011-container-with-most-water) |
+| [0876-middle-of-the-linked-list](https://github.com/gajendra03395/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gajendra03395/leetcode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/gajendra03395/leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
