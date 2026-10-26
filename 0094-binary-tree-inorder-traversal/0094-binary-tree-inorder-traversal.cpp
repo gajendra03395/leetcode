@@ -12,19 +12,36 @@
 class Solution {
 public:
     
-    void traverse(TreeNode* node, vector<int>& result) {
-        if (node == nullptr) {
-            return;
-        }
-        
-        traverse(node->left, result);  
-        result.push_back(node->val);   
-        traverse(node->right, result); 
-    }
+    
 
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> result;
-        traverse(root, result);
-        return result;
+      vector<int>ans;
+      TreeNode* curr = root;
+      while(curr != NULL)
+      {
+        if(curr->left == NULL){
+            ans.push_back(curr->val);
+            curr = curr->right;
+        }
+        else{
+            TreeNode* ip = curr->left;
+            while(ip->right != NULL && ip->right !=curr)
+            {
+                ip = ip->right;
+            }
+            if(ip->right == NULL)
+            {
+                ip->right = curr;
+                curr = curr->left;
+            }
+            else
+            {
+                ip->right = NULL;
+                ans.push_back(curr->val);
+                curr = curr->right;
+            }
+        }
+      }
+      return ans;
     }
 };
