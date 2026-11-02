@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gajendra03395/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/gajendra03395/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/gajendra03395/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/gajendra03395/leetcode/tree/master/0257-binary-tree-paths) |
@@ -196,5 +197,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gajendra03395/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/gajendra03395/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gajendra03395/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
