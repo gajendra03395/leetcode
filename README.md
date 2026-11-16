@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/gajendra03395/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/gajendra03395/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/gajendra03395/leetcode/tree/master/0567-permutation-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gajendra03395/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gajendra03395/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/gajendra03395/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
