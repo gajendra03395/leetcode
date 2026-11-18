@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/gajendra03395/leetcode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gajendra03395/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/gajendra03395/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/gajendra03395/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/gajendra03395/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/gajendra03395/leetcode/tree/master/0141-linked-list-cycle) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gajendra03395/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/gajendra03395/leetcode/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/gajendra03395/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/gajendra03395/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/gajendra03395/leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/gajendra03395/leetcode/tree/master/0344-reverse-string) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/gajendra03395/leetcode/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gajendra03395/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/gajendra03395/leetcode/tree/master/0127-word-ladder) |
 | [0226-invert-binary-tree](https://github.com/gajendra03395/leetcode/tree/master/0226-invert-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/gajendra03395/leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gajendra03395/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/gajendra03395/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
