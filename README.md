@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/gajendra03395/leetcode/tree/master/0155-min-stack) |
 | [0706-design-hashmap](https://github.com/gajendra03395/leetcode/tree/master/0706-design-hashmap) |
 | [0707-design-linked-list](https://github.com/gajendra03395/leetcode/tree/master/0707-design-linked-list) |
 ## Hash Function
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/gajendra03395/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gajendra03395/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gajendra03395/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/gajendra03395/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/gajendra03395/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gajendra03395/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bracket Sequences
