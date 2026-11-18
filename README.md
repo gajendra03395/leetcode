@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gajendra03395/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gajendra03395/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/gajendra03395/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/gajendra03395/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gajendra03395/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0706-design-hashmap](https://github.com/gajendra03395/leetcode/tree/master/0706-design-hashmap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gajendra03395/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/gajendra03395/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/gajendra03395/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gajendra03395/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/gajendra03395/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/gajendra03395/leetcode/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/gajendra03395/leetcode/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/gajendra03395/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/gajendra03395/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/gajendra03395/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/gajendra03395/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/gajendra03395/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/gajendra03395/leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/gajendra03395/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gajendra03395/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gajendra03395/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/gajendra03395/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gajendra03395/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gajendra03395/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/gajendra03395/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gajendra03395/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gajendra03395/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gajendra03395/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/gajendra03395/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
 | ------- |
