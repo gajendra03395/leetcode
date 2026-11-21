@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/gajendra03395/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/gajendra03395/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gajendra03395/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/gajendra03395/leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/gajendra03395/leetcode/tree/master/0706-design-hashmap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gajendra03395/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gajendra03395/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/gajendra03395/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/gajendra03395/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gajendra03395/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/gajendra03395/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/gajendra03395/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/gajendra03395/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Ternary Search
