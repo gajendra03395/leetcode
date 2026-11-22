@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/gajendra03395/leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/gajendra03395/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/gajendra03395/leetcode/tree/master/0567-permutation-in-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/gajendra03395/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gajendra03395/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sliding Window
 |  |
