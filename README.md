@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gajendra03395/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/gajendra03395/leetcode/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/gajendra03395/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/gajendra03395/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/gajendra03395/leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/gajendra03395/leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gajendra03395/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/gajendra03395/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gajendra03395/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/gajendra03395/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/gajendra03395/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/gajendra03395/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/gajendra03395/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/gajendra03395/leetcode/tree/master/0067-add-binary) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/gajendra03395/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Heap (Priority Queue)
 |  |
