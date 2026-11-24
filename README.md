@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gajendra03395/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gajendra03395/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/gajendra03395/leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/gajendra03395/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gajendra03395/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gajendra03395/leetcode/tree/master/0704-binary-search) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/gajendra03395/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/gajendra03395/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/gajendra03395/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/gajendra03395/leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gajendra03395/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gajendra03395/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/gajendra03395/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
